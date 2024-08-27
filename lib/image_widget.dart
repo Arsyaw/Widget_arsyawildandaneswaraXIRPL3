@@ -16,6 +16,7 @@ class ImageWidget extends StatelessWidget {
             image: NetworkImage(
                 'https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg'),
           ),
+          Image(image: AssetImage('assets/Lionel-Messi-Argentina-Pictures.jpg'))
         ],
       ),
     );
